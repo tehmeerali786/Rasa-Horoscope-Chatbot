@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\TehmeerAliParyani\\Desktop\\Books\\Chatbot\\Building Chatbots with Python\\Bot - Copy\\horoscope_bot\\./models/nlu\\default\\horoscopebot\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\TehmeerAliParyani\\Desktop\\Books\\Chatbot\\Building Chatbots with Python\\Bot - Copy\\horoscope_bot\\./models/nlu\\default\\horoscopebot\\intent_classifier_tensorflow_embedding.ckpt"

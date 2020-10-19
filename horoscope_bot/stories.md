@@ -1,0 +1,2 @@
+## Generated Story 0
+
